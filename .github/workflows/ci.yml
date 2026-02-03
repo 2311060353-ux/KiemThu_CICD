@@ -11,4 +11,4 @@ jobs:
         java-version: '21'
         distribution: 'temurin'
     - name: Run Test
-      run: echo "GitHub Actions dang tu dong chay kiem thu..."
+      run: echo "He thong dang tu dong chay kiem thu..."

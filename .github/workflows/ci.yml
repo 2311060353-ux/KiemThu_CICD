@@ -10,5 +10,5 @@ jobs:
       with:
         java-version: '21'
         distribution: 'temurin'
-    - name: Run Test
+    - name: Run  Test
       run: echo "He thong dang tu dong chay kiem thu..."

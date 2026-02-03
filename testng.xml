@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite_Bai5" parallel="methods" thread-count="2">
+  <test name="Test_ToiUu">
+    <classes>
+      <class name="DangNhap.DangKyTest"/> 
+    </classes>
+  </test>
+</suite>
